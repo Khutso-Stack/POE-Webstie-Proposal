@@ -1,9 +1,9 @@
 # Helping Hands Children's Shelter Website
 
 ## Student Information
-- **Name:** [Khutso Sebea]
-- **Student Number:** [ST10465145]
-- **Module:** [WEDE5020]
+- **Name:** [Your Full Name]
+- **Student Number:** [Your Student Number]
+- **Module:** [Module Name & Code]
 
 ---
 
@@ -24,7 +24,6 @@ The design reflects the organisation’s warm and hopeful identity, using orange
 ---
 
 ## Sitemap
-Home (index.html)
  ├── About Us (about.html)
  ├── Programs (programs.html)
  ├── Get Involved (enquiry.html)
@@ -91,13 +90,6 @@ Home (index.html)
 ---
 
 ## References
-1.	Habib, A. and Taylor, R., 1999. South Africa: anti-apartheid NGOs in transition. Voluntas: international journal of voluntary and nonprofit organizations, 10(1), pp.73-82.
-
-2.	Humphries, D., Gomez, L. and Hartwig, K., 2011. Sustainability of NGO capacity building in southern Africa: successes and opportunities. The International journal of health planning and management, 26(2), pp.e85-e101.
-3. Kumaran, M., Samuel, N. and Winston, L., 2012. The NGO sector in South Africa: History, issues and prospects. Journal for Development and Leadership, 1(2), pp.31-45.
-4. Lombard, A., 2007. The impact of social welfare policies on social development in South Africa: an NGO perspective. Social Work/Maatskaplike Werk, 43(4).
-5.	Mueller‐Hirth, N., 2012. If you don't count, you don't count: Monitoring and evaluation in South African NGOs. Development and Change, 43(3), pp.649-670.
-
 - Mozilla Developer Network (MDN) – HTML & CSS Documentation.  
 - W3Schools – Responsive Design Tutorials.  
 - UNICEF South Africa – Child welfare statistics.  
