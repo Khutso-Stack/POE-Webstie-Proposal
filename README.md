@@ -1,9 +1,9 @@
 # Helping Hands Children's Shelter Website
 
 ## Student Information
-- **Name:** [Your Full Name]
-- **Student Number:** [Your Student Number]
-- **Module:** [Module Name & Code]
+- **Name:** [Khutso Sebea]
+- **Student Number:** [ST10465145]
+- **Module:** [WEDE5020]
 
 ---
 
